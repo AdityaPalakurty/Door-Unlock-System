@@ -18,7 +18,7 @@
 
 **1. Piezo Sensor:** This sound-detection device detects knocking vibrations and converts them into electrical signals.
 
-****2. Microcontroller:**** The brain of the system, it processes the input from the piezo sensor and makes decisions based on predefined knocking patterns.
+**2. Microcontroller:** The brain of the system, it processes the input from the piezo sensor and makes decisions based on predefined knocking patterns.
 
 **3. Solenoid Lock:** An electric lock that physically locks and unlocks the door.
 
