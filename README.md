@@ -5,7 +5,7 @@
 </p>
 
 ****Knock to Unlock****
-  ,the Door Unlock System by Knocking is an innovative and secure method of accessing doors without the need for traditional keys or electronic keycards. It offers a convenient and user-friendly alternative by allowing users to unlock doors by simply knocking on them in a specific pattern.
+,the Door Unlock System by Knocking is an innovative and secure method of accessing doors without the need for traditional keys or electronic keycards. It offers a convenient and user-friendly alternative by allowing users to unlock doors by simply knocking on them in a specific pattern.
 
 
 
