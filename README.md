@@ -1,5 +1,7 @@
 # Door-Unlock-System
-
+<p align="center">
+<b>Knock to Unlock</b>
+</p>
 <p align="center">
 <img src="https://github.com/AdityaPalakurty/Door-Unlock-System/assets/98629876/9b60a439-d6c9-4a82-8b68-37f2ef106cec" alt="" width="500" height="500">
 </p>
