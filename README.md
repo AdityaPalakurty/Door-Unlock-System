@@ -58,4 +58,5 @@ Enhanced Sound Detection: Exploring advanced sound sensors or machine learning a
 **Conclusion:**
 The Door Unlock System by Knocking offers a unique and practical way to unlock doors securely and conveniently. It combines advanced technology with user-friendly features, making it a promising solution for modern access control needs. As further research and development continue, the system has the potential to revolutionize the way we approach door security and access control.
 
-Note:I here by declare that,this is a Practice work in the name of the project title “Door Unlock System by Knocking (Knock to Unlock)” by taking reference(s) from the open literature from the internet sources. This is not an Invention, and we will not claim any credit for it. We give all the credits to the original maker/inventors/developers/proposers.
+**Note:**
+I here by declare that,this is a Practice work in the name of the project title “Door Unlock System by Knocking (Knock to Unlock)” by taking reference(s) from the open literature from the internet sources. This is not an Invention, and we will not claim any credit for it. We give all the credits to the original maker/inventors/developers/proposers.
