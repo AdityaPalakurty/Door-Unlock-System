@@ -81,3 +81,9 @@ While the Door Unlock System (Knock to Unlock) offers convenience and security, 
 ## Conclusion 🏁
 
 The Door Unlock System (Knock to Unlock) is a modern and secure alternative to traditional keys and electronic access cards. Its user-friendly design, customizable patterns, and high level of security make it a valuable addition to residential, commercial, and hospitality environments. By adopting this innovative technology, users can enjoy the convenience of keyless entry while enhancing security.
+
+**Note:**
+We here by declare that, this is a Practice work in the name of the project title “Door Unlock System by 
+Knocking (Knock to Unlock)” by taking reference(s) from the open literature from the internet 
+sources. This is not an Invention, and we will not claim any credit for it. We give all the credits 
+to the original maker/inventors/developers/proposers.
