@@ -1,6 +1,10 @@
 # Knock-Based Door Unlock System 🚪🔓
 
-<img src="https://github.com/AdityaPalakurty/Door-Unlock-System/assets/98629876/e07443f7-7647-4301-9a53-2bb374255eaa" width="300">
+<h3 align="center">Knock to Unlock</h3>
+<div align="center">
+  <img src="https://github.com/AdityaPalakurty/Door-Unlock-System/assets/98629876/e07443f7-7647-4301-9a53-2bb374255eaa" alt="Knock to Unlock image" width="300">
+</div>
+
 
 ## Overview
 
