@@ -1,4 +1,5 @@
 # Knock-Based Door Unlock System 🚪🔓
+![Photo-1](https://github.com/AdityaPalakurty/Door-Unlock-System/assets/98629876/e07443f7-7647-4301-9a53-2bb374255eaa)
 
 ## Overview
 
